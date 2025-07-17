@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+.product-img {
+  width: 100%;
+  height: 180px;
+  object-fit: contain; /* or try cover */
+}
+
